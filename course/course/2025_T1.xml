@@ -1,8 +1,0 @@
-<course advanced_modules="[&quot;ai_coach&quot;, &quot;chartsxblock&quot;, &quot;chatgptxblock&quot;, &quot;coding_ai_eval&quot;, &quot;conditional&quot;, &quot;freetextresponse&quot;, &quot;google-document&quot;, &quot;google-calendar&quot;, &quot;h5pxblock&quot;, &quot;invideoquiz&quot;, &quot;jupyter&quot;, &quot;jupyterlite&quot;, &quot;lti_consumer&quot;, &quot;pdf&quot;, &quot;recommender&quot;, &quot;schoolyourself_lesson&quot;, &quot;schoolyourself_review&quot;, &quot;scorm&quot;, &quot;shortanswer_ai_eval&quot;, &quot;sortable&quot;, &quot;sql_grader&quot;, &quot;submit-and-compare&quot;, &quot;word_cloud&quot;, &quot;poll&quot;, &quot;survey&quot;, &quot;qualtricssurvey&quot;]" banner_image="/static/paris-banner.jpg" cert_html_view_enabled="true" certificates_display_behavior="CertificatesDisplayBehaviors.END" course_image="paris-banner.jpg" discussions_settings="{&quot;enable_graded_units&quot;: false, &quot;enable_in_context&quot;: true, &quot;provider_type&quot;: &quot;openedx&quot;, &quot;unit_level_visibility&quot;: true}" display_name="XBlocks Walkthrough: Paris Conference 25" end="null" instructor_info="{&quot;instructors&quot;: []}" language="en" learning_info="[]" lti_passports="[&quot;zoom:LTI_KEY:LTI_SECRET&quot;]" start="2020-01-01T00:00:00Z">
-  <chapter url_name="c22ec8564e64401d8db67f6d886e75b0"/>
-  <chapter url_name="8cf6b3ceb55e4faba254ff7eb5a9d780"/>
-  <chapter url_name="188f22366881452b814586113cfa0cd5"/>
-  <chapter url_name="9584f9006171406c8bec3b33c585efe7"/>
-  <chapter url_name="537b4d68376b4246be1f6998985fdd59"/>
-  <wiki slug="axim.axim101.2025_T1"/>
-</course>

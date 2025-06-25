@@ -1,3 +1,0 @@
-<vertical display_name="Zoom Integration Via LTI XBlock">
-  <lti_consumer url_name="c5ab61abbe4d48059f3f400c187211d5" xblock-family="xblock.v1" custom_parameters="[&#10;  &quot;instructor_email=YOUR_EMAIL&quot;&#10;]" launch_url="https://applications.zoom.us/lti/rich" lti_id="zoom" lti_version="lti_1p1"/>
-</vertical>

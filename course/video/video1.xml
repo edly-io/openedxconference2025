@@ -1,8 +1,0 @@
-<video youtube="1.00:3E7hkPZ-HTk" url_name="video1" sub="" transcripts="{&quot;en&quot;: &quot;c55baa80-e204-44bc-ab82-f9fe8e8d7c88-en.srt&quot;}" copied_from_block="block-v1:edx+1+1+type@video+block@b9070ad944c949a28b65028bd8684f37" display_name="Video" edx_video_id="c55baa80-e204-44bc-ab82-f9fe8e8d7c88" html5_sources="[]" upstream="null" youtube_id_1_0="3E7hkPZ-HTk" x-is-pointer-node="no">
-  <video_asset client_video_id="external video" duration="0.0" image="">
-    <transcripts>
-      <transcript language_code="en" file_format="srt" provider="Custom"/>
-    </transcripts>
-  </video_asset>
-  <transcript language="en" src="c55baa80-e204-44bc-ab82-f9fe8e8d7c88-en.srt"/>
-</video>

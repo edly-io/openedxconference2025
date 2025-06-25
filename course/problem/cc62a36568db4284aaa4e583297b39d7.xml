@@ -1,3 +1,0 @@
-<problem display_name="Numerical input" weight="1.0">What is 20% of 100? <label>Your Answer (in numbers):</label>
-<numericalresponse answer="20"><formulaequationinput/><solution><div class="detailed-solution"><p>Explanation</p><p>To find 20% of 100, multiply 100 × 0.20 = <strong data-start="388" data-end="394">20</strong>.</p></div></solution></numericalresponse><demandhint><hint><div>Convert 20% to a decimal before multiplying.</div></hint><hint><div>20% = 0.20</div></hint></demandhint>
-</problem>

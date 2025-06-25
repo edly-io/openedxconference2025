@@ -1,3 +1,0 @@
-<vertical display_name="Line Charts">
-  <chartsxblock url_name="110f511511e84598837999195da14472" xblock-family="xblock.v1" chart_data="[[&quot;Employee Name&quot;,&quot;Salary&quot;],[&quot;Alice&quot;,42000],[&quot;Bob&quot;,35000],[&quot;Christine&quot;,44000],[&quot;Dan&quot;,27000],[&quot;Ella&quot;,92000],[&quot;Fritz&quot;,18500]]" chart_name="Worker salaries overview" chart_type="Line"/>
-</vertical>

@@ -1,9 +1,11 @@
 # 📚 XBlocks Walkthrough – Open edX Conference Talk (July 2025)
 
-Want to use this course? Follow the following Actionable Items.
+Want to use this course? Follow the following steps.
 
 ## **Actionable Items**  
-1. All AI XBlocks:
+
+1. Import the .tar file in the Open edX Studio.
+2. All AI XBlocks:
 
     - AI Coach XBlock
     - ChatGPT XBlock
@@ -12,7 +14,7 @@ Want to use this course? Follow the following Actionable Items.
 
     require paid OPENAI API keys. Make sure to replace placeholder values `your_api_key_here` with **your own API credentials** in the corresponding XBlock configuration.
 
-2. The **LTI Consumer XBlock** requires proper configuration with the third-party tool credentials (Zoom LTI, for this course). In order to provide your own Zoom LTI Credentials, follow the following steps:
+3. The **LTI Consumer XBlock** requires proper configuration with the third-party tool credentials (Zoom LTI, for this course). In order to provide your own Zoom LTI Credentials, follow the following steps:
 
     - Go to `Settings -> Advanced Settings`
     - Scroll all the way down to `Lti passports` and replace the placeholders `LTI_KEY` and `LTI_SECRET` with your own credentials.
