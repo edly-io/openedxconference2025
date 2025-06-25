@@ -1,0 +1,70 @@
+{
+    "Perfect_Course_-_Google_Docs.png": {
+        "contentType": "image/png",
+        "content_son": {
+            "category": "asset",
+            "course": "axim101",
+            "name": "Perfect_Course_-_Google_Docs.png",
+            "org": "axim",
+            "revision": null,
+            "run": "2025_T1",
+            "tag": "c4x"
+        },
+        "custom_md5": "ee3518f44c0e96644829622e7346e626",
+        "displayname": "Perfect_Course_-_Google_Docs.png",
+        "filename": "asset-v1:axim+axim101+2025_T1+type@asset+block@Perfect_Course_-_Google_Docs.png",
+        "import_path": "Perfect_Course_-_Google_Docs.png",
+        "locked": false,
+        "thumbnail_location": [
+            "c4x",
+            "axim",
+            "axim101",
+            "thumbnail",
+            "Perfect_Course_-_Google_Docs-png.jpg",
+            null
+        ]
+    },
+    "c55baa80-e204-44bc-ab82-f9fe8e8d7c88-en.srt": {
+        "contentType": "text/plain",
+        "content_son": {
+            "category": "asset",
+            "course": "axim101",
+            "name": "c55baa80-e204-44bc-ab82-f9fe8e8d7c88-en.srt",
+            "org": "axim",
+            "revision": null,
+            "run": "2025_T1",
+            "tag": "c4x"
+        },
+        "custom_md5": "0dbc91db7e5d84685806053e1c4ebe40",
+        "displayname": "c55baa80-e204-44bc-ab82-f9fe8e8d7c88-en.srt",
+        "filename": "asset-v1:axim+axim101+2025_T1+type@asset+block@c55baa80-e204-44bc-ab82-f9fe8e8d7c88-en.srt",
+        "import_path": "c55baa80-e204-44bc-ab82-f9fe8e8d7c88-en.srt",
+        "locked": false,
+        "thumbnail_location": null
+    },
+    "paris-banner.jpg": {
+        "contentType": "image/jpeg",
+        "content_son": {
+            "category": "asset",
+            "course": "axim101",
+            "name": "paris-banner.jpg",
+            "org": "axim",
+            "revision": null,
+            "run": "2025_T1",
+            "tag": "c4x"
+        },
+        "custom_md5": "4016ae295710c9e298ea1e2197fa9f69",
+        "displayname": "paris-banner.jpg",
+        "filename": "asset-v1:axim+axim101+2025_T1+type@asset+block@paris-banner.jpg",
+        "import_path": "paris-banner.jpg",
+        "locked": false,
+        "thumbnail_location": [
+            "c4x",
+            "axim",
+            "axim101",
+            "thumbnail",
+            "paris-banner.jpg",
+            null
+        ]
+    }
+}

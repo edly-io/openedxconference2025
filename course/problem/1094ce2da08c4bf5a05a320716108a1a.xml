@@ -1,0 +1,3 @@
+<problem display_name="Text input" weight="1.0"><stringresponse answer="blue" type="ci">
+<div>What color is the sky on a clear day?</div><textline size="20"/><solution><div class="detailed-solution"><p>Explanation</p><p data-start="265" data-end="360">The sky appears <strong data-start="281" data-end="289">blue</strong> on a clear day because of the way sunlight scatters in the atmosphere.</p></div></solution></stringresponse><demandhint><hint><div>It's the same color as the ocean.</div></hint><hint><div>It starts with the letter “b.”</div></hint></demandhint>
+</problem>

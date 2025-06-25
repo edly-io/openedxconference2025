@@ -1,0 +1,3 @@
+<vertical display_name="AI Assistant">
+  <ai_coach url_name="22ff5eaa0f2a4ec1861a6522bfec93e5" xblock-family="xblock.v1" display_name="AI Coach Xblock" api_key="your_api_key_here" context="I am grade 8 student studying leadership. My teacher asked me question: {{question}} . I answered {{answer}} . Provide two tips to improve my answer as a grade 8 student." question="I am a good leader because…"/>
+</vertical>

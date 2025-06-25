@@ -1,0 +1,3 @@
+<problem display_name="Single select" weight="1.0"><multiplechoiceresponse>
+<div>What is 10 + 2?</div><choicegroup><choice correct="true"><div>12</div></choice><choice correct="false"><div>2</div></choice><choice correct="false"><div>8</div></choice></choicegroup></multiplechoiceresponse>
+</problem>
